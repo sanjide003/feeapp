@@ -5,13 +5,13 @@ import { initializeAppCheck, ReCaptchaV3Provider } from "https://www.gstatic.com
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDdUyk_yvZoQ1JI1pPLJTK51U91BVO0XSA",
-  authDomain: "bright-tube-p07pf.firebaseapp.com",
-  projectId: "bright-tube-p07pf",
-  storageBucket: "bright-tube-p07pf.firebasestorage.app",
-  messagingSenderId: "239455260650",
-  appId: "1:239455260650:web:5c3d61cbd8fcfefccc6c93",
-  firestoreDatabaseId: "ai-studio-feee-81b4709b-982c-4f96-b21b-c346855b9aa2"
+  apiKey: "AIzaSyCYUD3SGv-rvdQTjGucEbZO7lE2gua6a8U",
+  authDomain: "feenimdevathiyal.firebaseapp.com",
+  projectId: "feenimdevathiyal",
+  storageBucket: "feenimdevathiyal.firebasestorage.app",
+  messagingSenderId: "400048231963",
+  appId: "1:400048231963:web:c5d74ac73448544a8bcabe",
+  measurementId: "G-3XWW1C8G97"
 };
 
 const app = initializeApp(firebaseConfig);
